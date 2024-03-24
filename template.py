@@ -8,6 +8,10 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 list_of_files = [
     "src/__init__.py",
     "src/utils.py",
+    "src/logger.py",
+    "src/exception.py",
+    "src/config.py",
+    "src/vector.py",
     "src/prompt.py",
     ".env",
     "setup.py",

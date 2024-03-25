@@ -1,6 +1,7 @@
 from src.logger import logging
 from src.exception import Chatbot
 import os,sys
+import langchain
 from langchain.document_loaders import PyPDFLoader, DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings

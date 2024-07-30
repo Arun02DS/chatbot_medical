@@ -61,9 +61,6 @@ open up localhost:
 ```
 
 ### Techstack Used:
-
-[](https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2#techstack-used)
-
 * Python
 * LangChain
 * Flask
